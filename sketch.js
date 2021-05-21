@@ -8,5 +8,5 @@ function draw() {
   text("Yajhaira Nicoll Naranjo", 50, 50);
 
   fill(231, 67, 82);
-  ellipse(100, 130, 70, 70);
+  ellipse(100, 130, 90, 90);
 }
